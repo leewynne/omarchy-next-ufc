@@ -1,5 +1,18 @@
 # Next UFC
 
+> [!IMPORTANT]
+> **Next UFC is now [OmaCombat](https://github.com/leewynne/omacombat)**, with
+> ONE Championship, the PFL and the big boxing fights added. This repository
+> is no longer updated. To switch:
+>
+> ```bash
+> omarchy plugin remove leewynne.next-ufc
+> omarchy plugin add https://github.com/leewynne/omacombat.git --enable
+> ```
+>
+> If you used the icon style, set it again with
+> `omarchy bar set leewynne.omacombat label icon`.
+
 The next UFC event in your Omarchy bar. Click it for the full fight card,
 then step through every upcoming event with the arrows.
 
